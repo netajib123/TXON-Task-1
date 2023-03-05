@@ -1,0 +1,367 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.bhlogo {
+    width: 13vw;
+}
+
+.second {
+    text-align: center;
+    margin: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6vw;
+    font-weight: bold;
+    width: auto;
+}
+
+.BHOSALE {
+    color: orange;
+}
+
+.EARTHMOVERS {
+    color: black;
+}
+
+.third {
+    font-size: 2.5vw;
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 6vh 0vw;
+}
+
+.fourth {
+    top: 0;
+    text-decoration: none;
+}
+
+.fourth nav ul a {
+    color: black;
+}
+
+.fourth nav ul a:hover {
+    color: orange;
+}
+
+ul {
+    text-align: center;
+    margin-bottom: 5vh;
+}
+
+li {
+    font-size: 2vw;
+    display: inline-block;
+    padding: 0vh 1.5vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fifth {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
+    background: url(https://bhosaleearthmovers.com/wp-content/uploads/2022/05/JCB_BHL_3DX_ecoXpert_2880_1619-Copy.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    position: relative;
+    display: block;
+}
+
+.sixth {
+    color: black;
+    font-size: 4vw;
+    padding: 4vh 12vw;
+}
+
+.seventh {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7vw;
+    margin-top: 4vh;
+    margin-bottom: 5vh;
+}
+
+.eighth {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vw;
+    position: absolute;
+    width: 100vw;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.ninth {
+    border: 0.5px solid black;
+    width: 371.984px;
+    height: 300.6px;
+    background-color: white;
+    padding: 45px 0px 0px 0px;
+}
+
+.tenth {
+    border: 0.5px solid black;
+    width: 371.984px;
+    height: 300.6px;
+    background-color: white;
+    padding: 45px 0px 0px 0px;
+}
+
+.twelth {
+    border: 0.5px solid black;
+    width: 395.984px;
+    height: 305.6px;
+    background-color: white;
+    padding: 80px 0px 0px 0px;
+    margin: -24px 0px 0px 0px;
+}
+
+.icons {
+    height: auto;
+    width: auto;
+}
+
+.thirteenth {
+    padding: 10px;
+    text-align: center;
+    font-size: 84%;
+}
+
+.fourteenth {
+    text-align: center;
+    font-size: 2.6vw;
+    padding: 20px 5px 20px 5px;
+}
+
+@media screen and (min-width:0px) {
+    .ninth {
+        width: 100vw;
+    }
+}
+
+@media screen and (min-width:0px) {
+    .tenth {
+        width: 100vw;
+    }
+}
+
+@media screen and (min-width:0px) {
+    .twelth {
+        width: 100vw;
+    }
+}
+
+@media screen and (min-width:770px) {
+    .ninth {
+        width: 371.984px;
+        height: 300.6px;
+        padding: 45px 0px 0px 0px;
+        margin-top: 200px;
+    }
+}
+
+@media screen and (min-width:770px) {
+    .tenth {
+        width: 371.984px;
+        height: 300.6px;
+        padding: 45px 0px 0px 0px;
+        margin-top: 0px;
+    }
+}
+
+@media screen and (min-width:770px) {
+    .twelth {
+        width: 371.984px;
+        height: 300.6px;
+        padding: 45px 0px 0px 0px;
+        margin-top: 200px;
+    }
+}
+
+@media screen and (min-width:1120px) {
+    .ninth {
+        width: 371.984px;
+        height: 261.6px;
+        background-color: white;
+        padding: 45px 0px 0px 0px;
+        margin-top: 89px;
+    }
+}
+
+@media screen and (min-width:1120px) {
+    .tenth {
+        width: 371.984px;
+        height: 261.6px;
+        background-color: white;
+        padding: 45px 0px 0px 0px;
+        margin-top: 89px;
+    }
+}
+
+@media screen and (min-width:1120px) {
+    .twelth {
+        width: 371.984px;
+        height: 300.6px;
+        background-color: white;
+        padding: 45px 0px 0px 0px;
+        margin: 50px 0px 0px 0px;
+    }
+}
+
+.seventeenth {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 170px 0px;
+    position: relative;
+    justify-content: center;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 7px 12px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn:hover {
+    color: black;
+    background-color: transparent;
+}
+
+.image {
+    width: 270px;
+    align-self: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.section1 {
+    text-align: center;
+    padding: 200px 10px 10px 10px;
+}
+
+@media screen and (max-width:1120px) {
+
+    .section1 {
+        padding: 450px 10px 10px 10px;
+    }
+}
+
+@media screen and (max-width:770px) {
+
+    .section1 {
+        padding: 550px 10px 10px 10px;
+    }
+}
+
+.head1 {
+    font-size: 3vw;
+    padding: 50px 0px 20px 0px;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+    opacity: 80%;
+    text-decoration: underline black ;
+}
+
+.head2 {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+    font-family: 'Zilla Slab', serif;
+    font-size: 2vw;
+    padding-top: 20px;
+    opacity: 80%;
+    font-style: italic;
+    text-decoration: 3px dotted orange underline;
+}
+
+.div1 {
+    display: grid;
+    text-align: center;
+    grid-column: 3;
+    grid-template-columns: 50% auto;
+    height: 63vh;
+}
+
+.items {
+    height: 21vh;
+}
+
+@media screen and (max-width:1300px) {
+    .items {
+        height: 13.5vh;
+    }
+
+    .div1 {
+        height: 40.5vh;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .items {
+        height: 35vh;
+    }
+
+    .div1 {
+        height: 105vh;
+    }
+}
+
+.headings {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 2vw;
+    padding: 20px;
+    opacity: 80%;
+    text-decoration:1px black underline;
+}
+
+.paragraphs {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+    font-family: 'Zilla Slab', serif;
+    font-size: 1.5vw;
+    padding: 0px 10vw;
+    opacity: 80%;
+}
+
+@media screen and (max-width:700px) {
+    .paragraphs {
+        font-size: 2.7vw;
+    }
+
+    .headings {
+        font-size: 2.9vw;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .paragraphs {
+        font-size: 2.9vw;
+    }
+
+    .headings {
+        font-size: 3vw;
+    }
+}
+
+@media screen and (min-width:701px) {
+    .paragraphs {
+        font-size: 2.3vw;
+    }
+
+    .headings {
+        font-size: 2.7vw;
+        padding-bottom: 2px;
+    }
+}
